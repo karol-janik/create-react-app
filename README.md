@@ -10,7 +10,7 @@ Deploy your own Create React App project with Vercel.
 
 _Live Example: https://create-react-template.vercel.app/_
 
-## Available Scripts
+## Available Scriptshvjh
 
 In the project directory, you can run:
 
